@@ -12,4 +12,6 @@ For now, the project contain:
             - Decision Tree
     - Unsupervised Learning
         - Clustering
+            - K Means
         - Association
+            - Apriori
